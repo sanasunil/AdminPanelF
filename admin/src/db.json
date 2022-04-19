@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "Adam Joan",
+      "password": "London",
+      "userType": "Customer",
+      "userToken": "8129638125"
+    },
+    {
+      "id": "2",
+      "username": "John",
+      "password": "Rose",
+      "userType": "Admin",
+      "userToken": "8129638125"
+    },
+    {
+      "id": "3",
+      "username": "Celia",
+      "password": "abcd",
+      "userType": "Coordinator",
+      "userToken": "8129638125"
+    },
+    {
+      "id": "4",
+      "username": "Ben",
+      "password": "broken",
+      "userType": "Coordinator",
+      "userToken": "8129638125"
+    },
+    {
+      "username": "sana",
+      "password": "wwwww",
+      "userType": "user",
+      "userToken": "3456",
+      "id": "wBKw__0"
+    }
+  ]
+}
